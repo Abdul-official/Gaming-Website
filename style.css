@@ -120,7 +120,8 @@
     font-family: "Monster-bold",serif;
     line-height: 60px;
     text-align: left;
-    color: #fff;
+    /* color: #fff; */
+    color: #a2b71b;
 }
 .para p{
     text-align: justify;
