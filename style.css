@@ -15,6 +15,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: auto smooth initial inherit;
 }
 
 .main-container{
@@ -99,6 +100,10 @@
 .nav-section a:hover{
     color: #a2b71b;
     transition: all .5s;
+}
+
+.nav-section .active{
+    color: #a2b71b;
 }
 
 .content{
@@ -299,13 +304,13 @@
 .items-1 p{
     font-family: "Monster-Bold",serif;
     font-size: 40px;
-    width: 150px;
+    /* width: 150px; */
     padding: 0px 40px;
     line-height: 60px;
 }
 
 .items-1 img{
-    width: 500px;
+    width: 400px;
     height: 200px;
     padding: 0px 40px;
 }
@@ -342,7 +347,7 @@
 
 .fouth-header{
     width: 89%;
-    margin: 20px auto 0px auto;
+    margin: 20px auto 5px auto;
     font-size: 25px;
     font-family: "Monster-bold",serif;
 
@@ -432,7 +437,7 @@
 
 .fifth-header{
     width: 89%;
-    margin: 20px auto 0px auto;
+    margin: 20px auto 5px auto;
     font-size: 25px;
     font-family: "Monster-bold",serif;
 
@@ -509,7 +514,7 @@
 
 .sixth-header{
     width: 89%;
-    margin: 20px auto 0px auto;
+    margin: 20px auto 5px auto;
     font-size: 25px;
     font-family: "Monster-bold",serif;
 
@@ -602,8 +607,9 @@
 }
 
 .seventh-header{
+    /* border: 1px solid red; */
     width: 89%;
-    margin: 20px auto 0px auto;
+    margin: 20px auto 5px auto;
     font-size: 25px;
     font-family: "Monster-bold",serif;
 
