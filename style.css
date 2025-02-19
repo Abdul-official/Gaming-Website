@@ -298,6 +298,7 @@
 .items-1 p{
     font-family: "Monster-Bold",serif;
     font-size: 40px;
+    width: 150px;
     padding: 0px 40px;
     line-height: 60px;
 }
