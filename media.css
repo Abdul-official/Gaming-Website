@@ -1,4 +1,4 @@
-@media only screen and (min-width:350px) and (max-width:600px){
+@media only screen and (min-width:350px) and (max-width:500px){
     *{
         scroll-behavior: auto smooth initial inherit;
     }
@@ -154,8 +154,8 @@
     }
     
     .items-1 img{
-        width: 220px;
-        height: 90px;
+        width: 190px;
+        height: 80px;
     }
 
     .items-1:hover{
@@ -351,6 +351,7 @@
 
     .footer-item{
         flex-direction: column;
+        padding: 0;
     }
       
 
