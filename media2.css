@@ -177,6 +177,7 @@
 
     .order-box{
         width: 100%;
+        margin-left: 0;
     }
     .order-list{
         width: 90%;
@@ -224,6 +225,7 @@
 
     .store-box{
         width: 100%;
+        margin-left: 0;
     }
     .store-list{
         width: 90%;
@@ -269,6 +271,7 @@
 
     .latest-box{
         width: 100%;
+        margin-left: 0;
     }
     .latest-list{
         width: 90%;
@@ -317,6 +320,7 @@
 
     .xbox-box{
         width: 100%;
+        margin-left: 0;
     }
     .xbox-list{
         width: 90%;
