@@ -176,9 +176,10 @@
 
     .order-box{
         width: 100%;
+        margin-left: 0;
     }
     .order-list{
-        width: 94%;
+        width: 90%;
     }
     
     .order-box img{
@@ -224,9 +225,10 @@
 
     .store-box{
         width: 100%;
+        margin-left:0;
     }
     .store-list{
-        width: 94%;
+        width: 90%;
     }
     
     .store-box img{
@@ -269,9 +271,10 @@
 
     .latest-box{
         width: 100%;
+        margin-left: 0;
     }
     .latest-list{
-        width: 94%;
+        width: 90%;
     }
     
     .latest-box img{
@@ -317,9 +320,10 @@
 
     .xbox-box{
         width: 100%;
+        margin-left: 0;
     }
     .xbox-list{
-        width: 94%;
+        width: 90%;
     }
     
     .xbox-box img{
