@@ -128,8 +128,9 @@
     }
         
     .ad-1{
+        width: 90%;
         height: 70px;
-        margin: 10px auto;
+        margin-top: 10px;
     }
     
     .ad-1 img{
@@ -151,6 +152,7 @@
         justify-content: space-between;
         align-items: center;
         height: 130px;
+        margin-left: 0;
     }
     
     .items-1 p{
